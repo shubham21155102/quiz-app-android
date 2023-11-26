@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.bpscquizapp"
+    namespace = "com.bpscquizapp.bpscquizapp"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.bpscquizapp"
+        applicationId = "com.bpscquizapp.bpscquizapp"
         minSdk = 24
         targetSdk = 33
         versionCode = 1
